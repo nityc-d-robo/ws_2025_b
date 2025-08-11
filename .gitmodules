@@ -1,0 +1,6 @@
+[submodule "src/main_2025-b"]
+	path = src/main_2025-b
+	url = https://github.com/nityc-d-robo/main_2025-b
+[submodule "src/launch_2025-b"]
+	path = src/launch_2025-b
+	url = https://github.com/nityc-d-robo/launch_2025-b
