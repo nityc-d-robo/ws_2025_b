@@ -1,3 +1,3 @@
 colcon build --symlink-install
-. ./install/setup.zsh
-ros2 launch launch_2025-b launch_2025-b.xml
+. ./install/setup.sh
+ros2 launch launch_2025_b launch_2025_b.xml
